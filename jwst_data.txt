@@ -1,0 +1,9 @@
+launchElapsedTime: 07:02:43:09
+kmsEarth: 761141.3
+kmsToL2: 685190.2
+percentageCompleted: 52.6255
+speedKm: 0.6592
+tempWarmSide1C: 36.11
+tempWarmSide2C: 8.33
+tempCoolSide1C: -43.89
+tempCoolSide2C: -144.44
