@@ -1,9 +1,60 @@
-launchElapsedTime: 07:02:43:09
-kmsEarth: 761141.3
-kmsToL2: 685190.2
-percentageCompleted: 52.6255
+launchElapsedTime: 07:03:14:49
+kmsEarth: 762394.0
+kmsToL2: 683937.6
+percentageCompleted: 52.7121
 speedKm: 0.6592
 tempWarmSide1C: 36.11
 tempWarmSide2C: 8.33
 tempCoolSide1C: -43.89
 tempCoolSide2C: -144.44
+
+launchElapsedTime: 07:03:14:59
+kmsEarth: 762400.8
+kmsToL2: 683930.8
+percentageCompleted: 52.7126
+speedKm: 0.6592
+tempWarmSide1C: 36.11
+tempWarmSide2C: 8.33
+tempCoolSide1C: -43.89
+tempCoolSide2C: -144.44
+
+launchElapsedTime: 07:03:15:08
+kmsEarth: 762406.4
+kmsToL2: 683925.2
+percentageCompleted: 52.7130
+speedKm: 0.6592
+tempWarmSide1C: 36.11
+tempWarmSide2C: 8.33
+tempCoolSide1C: -43.89
+tempCoolSide2C: -144.44
+
+launchElapsedTime: 07:03:16:09
+kmsEarth: 762446.5
+kmsToL2: 683885.1
+percentageCompleted: 52.7157
+speedKm: 0.6592
+tempWarmSide1C: 36.11
+tempWarmSide2C: 8.33
+tempCoolSide1C: -43.89
+tempCoolSide2C: -144.44
+
+launchElapsedTime: 07:03:17:08
+kmsEarth: 762485.8
+kmsToL2: 683845.7
+percentageCompleted: 52.7185
+speedKm: 0.6592
+tempWarmSide1C: 36.11
+tempWarmSide2C: 8.33
+tempCoolSide1C: -43.89
+tempCoolSide2C: -144.44
+
+launchElapsedTime: 07:03:18:08
+kmsEarth: 762525.0
+kmsToL2: 683806.5
+percentageCompleted: 52.7212
+speedKm: 0.6592
+tempWarmSide1C: 36.11
+tempWarmSide2C: 8.33
+tempCoolSide1C: -43.89
+tempCoolSide2C: -144.44
+
