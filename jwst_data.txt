@@ -20449,3 +20449,23 @@ tempWarmSide2C: 13
 tempCoolSide1C: -209
 tempCoolSide2C: -202
 
+launchElapsedTime: 28:08:10:09
+kmsEarth: 1425840.0
+kmsToL2: 40486.0
+percentageCompleted: 97.2387
+speedKm: 0.2119
+tempWarmSide1C: 53
+tempWarmSide2C: 13
+tempCoolSide1C: -209
+tempCoolSide2C: -202
+
+launchElapsedTime: 28:08:25:10
+kmsEarth: 1426031.1
+kmsToL2: 40294.9
+percentageCompleted: 97.2517
+speedKm: 0.2119
+tempWarmSide1C: 53
+tempWarmSide2C: 13
+tempCoolSide1C: -209
+tempCoolSide2C: -202
+
